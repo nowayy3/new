@@ -21,3 +21,6 @@ summary{
    font-family: Cursive;
 
 }
+details{
+    cursor: pointer;
+}
